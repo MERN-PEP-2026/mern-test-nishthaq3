@@ -1,0 +1,7 @@
+couse modle 
+course name,descriotio n,instructor,createdat
+
+student model 
+name,email,pass
+
+apis
